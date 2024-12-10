@@ -1,0 +1,6 @@
+@APICocktail_HostAddress = http://localhost:5193
+
+GET {{APICocktail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
